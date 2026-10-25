@@ -9,8 +9,8 @@
 A Discord bot that asks your team how they feel every working day, anonymously,
 and turns the answers into reports and charts the admin can actually read.
 
-[![Website](https://img.shields.io/badge/website-happyx.joanbe.net-8b5cf6?style=for-the-badge)](https://happyx.joanbe.net)
-[![Add to Discord](https://img.shields.io/badge/Add_to-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://happyx.joanbe.net/api/web/auth/invite)
+[![Self-host it](https://img.shields.io/badge/Self--host_it-Docker-8b5cf6?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/happyx-app/HappyX#self-host-with-portainer)
+[![Docs](https://img.shields.io/badge/Docs-README-fbbf24?style=for-the-badge)](https://github.com/happyx-app/HappyX#readme)
 
 <br>
 
